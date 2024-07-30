@@ -1,6 +1,14 @@
 body {
-    background-color: aqua;
-    
+    background-color: #00ffff;
+    padding: 50px;
+    margin: 30px;
+
+    height: 80vh;
+    width: 80vw;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 h1 {
     color: brown;
@@ -9,10 +17,15 @@ h2 {
     color: blueviolet;
 }
 img {
-    width: 50%;
+    width: 40%;
     height: auto;
 }
 
 img:hover {
     transform: scale(1.1);
+}
+.container{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
 }
