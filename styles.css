@@ -18,12 +18,12 @@ h2 {
 }
 
 .contenedor {
-    margin-top: 0px;
-    margin-left: 350px;
-}
+    display: flex;
+   }
 .imagen-logo {
     width: 850px;
     height: 700px;
+    margin-left: 50px;
 
 }
 img {
