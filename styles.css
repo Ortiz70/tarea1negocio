@@ -1,3 +1,18 @@
-*{
- 
+body {
+    background-color: aqua;
+    
+}
+h1 {
+    color: brown;
+}
+h2 {
+    color: blueviolet;
+}
+img {
+    width: 50%;
+    height: auto;
+}
+
+img:hover {
+    transform: scale(1.1);
 }
