@@ -16,6 +16,16 @@ h1 {
 h2 {
     color: blueviolet;
 }
+
+.contenedor {
+    margin-top: 0px;
+    margin-left: 350px;
+}
+.imagen-logo {
+    width: 850px;
+    height: 700px;
+
+}
 img {
     width: 40%;
     height: auto;
